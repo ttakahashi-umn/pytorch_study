@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.10.12"
 numpy = "^1.26.4"
 torch = "^2.3.0"
+matplotlib = "^3.8.4"
+torchviz = "^0.0.2"
 
 [build-system]
 requires = ["poetry-core"]
